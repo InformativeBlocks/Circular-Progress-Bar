@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Buttons">
+    <file>next-button.png</file>
+    <file>previous.png</file>
+  </qresource>
+</RCC>
